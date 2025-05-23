@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://your-logo-url.com/editx-logo.svg" alt="EditX Logo" width="200"/>
+  <img src="src\icons\editx.png" alt="EditX Logo" width="200"/>
 </p>
 
 <h1 align="center">EditX – Real-Time Collaborative Text Editor</h1>
