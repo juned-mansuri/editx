@@ -7,7 +7,11 @@ import "@liveblocks/react-ui/styles/dark/attributes.css";
 import "@liveblocks/react-tiptap/styles.css";
 
 export const metadata = {
-  title: "Liveblocks",
+  title: "EditX",
+   icons: {
+    icon: "/icons/editx.png", // Path to favicon in the public directory
+  },
+
 };
 
 export default function RootLayout({
@@ -19,13 +23,13 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link
-          href="https://liveblocks.io/favicon-32x32.png"
+          href="/src/app/icons/editx.png"
           rel="icon"
           sizes="32x32"
           type="image/png"
         />
         <link
-          href="https://liveblocks.io/favicon-16x16.png"
+          href="/src/app/icons/editx.png"
           rel="icon"
           sizes="16x16"
           type="image/png"
